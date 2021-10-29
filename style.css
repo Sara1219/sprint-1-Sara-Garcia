@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+}
+
+form{
+    /* Centrar el formulario en la página */
+  margin-top: 10px;
+  margin-left: 450px;
+    width: 450px;
+    /* Esquema del formulario */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    background-color: #f4d793;
+    text-align: center;
+    
+}
+a{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    width: 60px;
+    height: 90px;
+
+   
+}
+.href{
+    background-color: darkmagenta;
+}
+
+.logo{
+    margin-top: 60px;
+    margin-left: 610px;
+    width: 100px;
+    height: 100px;
+    display: block;
+    align-content: center;
+
+}
+body{
+     background-color: beige;
+     
+}
+.info{
+    text-align: justify;
+    margin: 20px;
+}
+.info p{
+    margin: 20px;
+}
+.info article{
+    border: 2px dotted lightcoral;
+    margin: 10px 50px ;
+    padding: 20px;
+    text-align: center;
+}
+.contenedor {
+    width: 95%;
+    align-content: center;
+    margin: auto;
+}
+
+div.galeria{
+    margin: 10px;
+    box-shadow: 2px 4px 8px lightsalmon;
+    width: 300px;
+    margin: 0 auto;
+    display: inline-block;
+    margin-left: 90px;
+}
+.galeria .img{
+    width: 300px;
+    height: 300px;
+   margin: 10px auto;
+}
+footer{
+    background-color: coral;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+    font-size: 22px;
+}
